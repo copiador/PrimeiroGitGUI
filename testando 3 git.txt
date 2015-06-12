@@ -1,2 +1,3 @@
 terceiro teste git
-testando mudan�a 22:21
+testando mudança 22:21
+Testando mudança 22:23
